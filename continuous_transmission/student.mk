@@ -2,11 +2,11 @@
 # Change this file to match your requirements
 
 # Name of your project
-LD_NAME = example_project
+LD_NAME = continuous_transmission
 
 # Add lists of space separated source files
 # Own sources, e.g. main.c
-SRCS = example_project.c
+SRCS = main.c
 # Header files for configuration. Adding the header file will  make make compile on changes.
 HDRS =
 # Library sources, e.g. xmc_gpio.c
